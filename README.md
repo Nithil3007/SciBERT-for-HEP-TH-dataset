@@ -1,1 +1,1 @@
-# SciBERT-for-HEP-TH-dataset
+# SciBERT for HEP-TH dataset
