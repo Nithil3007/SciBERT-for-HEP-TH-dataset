@@ -1,4 +1,3 @@
-# SciBERT for HEP-TH dataset
 In general domains, large-scale training data is often possible to obtain, but gathering large-scale data and performing preprocessing is challenging and expensive.
 BERT makes use of Transformer, an attention mechanism that learns contextual relations between words in a text. The Transformer encoder reads the entire sequence of words at once and labelling of a particular term in a sentence is done based on the words present before and after. This characteristic allows the model to learn the context of a word based on all of its surroundings.
 
